@@ -18,6 +18,9 @@ const Page2 = () => {
            <div>asdfkj1aa</div>
     <div>asd123asdf123123</div>
     <div>신희선</div>
+    <div>신희선</div>
+    <div>신희선</div>
+
     </div>
   )
 }
