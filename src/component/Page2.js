@@ -17,6 +17,7 @@ const Page2 = () => {
            <div>sdfsdf</div>
            <div>asdfkj1aa</div>
     <div>asd123asdf123</div>
+    <div>신희선</div>
     </div>
   )
 }
