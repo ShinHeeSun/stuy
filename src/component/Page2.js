@@ -14,7 +14,7 @@ const Page2 = () => {
 </div> 
               </div>
              <div className='page2_img'> <img src={page2_img} /></div>
-           
+           <div></div>
     </div>
   )
 }
